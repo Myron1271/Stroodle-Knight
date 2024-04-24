@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 if(player_state = CHARACTER_STATE.ATTACKING) {
 	
 	if (sequence = undefined) {
@@ -38,6 +39,12 @@ if(player_state = CHARACTER_STATE.ATTACKING) {
 }
 
 
+if(instance_exists(objSpit)) {
+	sprite_index = sprPlayerDefending;
+	alarm[0] = 15;
+}
+
+/*
 if(player_state == CHARACTER_STATE.IDLE && x != xstart) {
 	var _distance = xstart - x;
 	show_debug_message(xstart);
@@ -46,6 +53,7 @@ if(player_state == CHARACTER_STATE.IDLE && x != xstart) {
 		x=xstart;
 	}
 }
+*/
 
 
 

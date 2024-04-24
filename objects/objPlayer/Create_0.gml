@@ -7,3 +7,5 @@ player_state = CHARACTER_STATE.IDLE;
 sequence_running = false;
 
 sequence = undefined;
+
+sprite_offset = {x: sprite_get_xoffset(sprPlayer), y: sprite_get_yoffset(sprPlayer)};

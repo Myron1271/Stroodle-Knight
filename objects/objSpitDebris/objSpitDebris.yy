@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprSpitDebris",
-    "path":"sprites/sprSpitDebris/sprSpitDebris.yy",
+    "name":"sprTrash",
+    "path":"sprites/sprTrash/sprTrash.yy",
   },
   "spriteMaskId":null,
   "visible":true,

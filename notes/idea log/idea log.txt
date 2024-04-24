@@ -1,0 +1,14 @@
+how do you keep youngster interested and make them talk about this game with their friends?
+1) Random chance to crit; just like in dnd, give the players a random chance to temporarily feel like a badass
+and feel like they just swung a losing battle into an undeniable victory. This gives players something to brag about
+with their friends and keeps excitement levels high!
+2) A pool of random attack animations. Variety is the spice of life. Players will have a higher chance of coming
+back to the trash can if they feel like there is a part of the game they haven't seen yet.
+3) Monster waves. A big problem with the design in this game is that damage to the boss will feel almost
+negligible (it needs to be balanced for huuundreds of players). To circumvent this and to make players feel like
+they still have agency over the battle we can instead introduce multiple smaller health bars to chip down.
+4) Damage numbers. Just like with point 3, floating damage numbers will introduce some much needed feedback to
+the players inputs. Make the unnecessarily big as well (actual damage * 100), like in World of Warcraft.
+
+
+Blikje, bananenschil, botjes

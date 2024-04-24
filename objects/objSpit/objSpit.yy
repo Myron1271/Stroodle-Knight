@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprSpit",
-    "path":"sprites/sprSpit/sprSpit.yy",
+    "name":"sprTrashBag",
+    "path":"sprites/sprTrashBag/sprTrashBag.yy",
   },
   "spriteMaskId":null,
   "visible":true,
