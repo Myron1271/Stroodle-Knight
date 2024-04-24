@@ -32,5 +32,5 @@
     "path":"sprites/sprPointLinks/sprPointLinks.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
