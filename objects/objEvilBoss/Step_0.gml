@@ -8,5 +8,5 @@ if (character_state = CHARACTER_STATE.DAMAGED) {
 
 if(health <=0 && character_state != CHARACTER_STATE.DEAD) {
 	character_state = CHARACTER_STATE.DEAD;
-	alarm[2] = 35;
+	alarm[2] = 30;
 }

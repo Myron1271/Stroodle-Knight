@@ -32,8 +32,8 @@
     {"name":"DrawSetText","order":2,"path":"scripts/DrawSetText/DrawSetText.yy",},
     {"name":"Enums","order":1,"path":"scripts/Enums/Enums.yy",},
     {"name":"seqDeath","order":1,"path":"sequences/seqDeath/seqDeath.yy",},
+    {"name":"sprBackground","order":11,"path":"sprites/sprBackground/sprBackground.yy",},
     {"name":"sprEvilBoss","order":2,"path":"sprites/sprEvilBoss/sprEvilBoss.yy",},
-    {"name":"sprWhiteRect","order":10,"path":"sprites/sprWhiteRect/sprWhiteRect.yy",},
     {"name":"sprPlayerWithShield","order":8,"path":"sprites/sprPlayerWithShield/sprPlayerWithShield.yy",},
     {"name":"sprPointLinks","order":4,"path":"sprites/sprPointLinks/sprPointLinks.yy",},
     {"name":"sprPointRechts","order":3,"path":"sprites/sprPointRechts/sprPointRechts.yy",},
@@ -42,5 +42,6 @@
     {"name":"sprSpit","order":7,"path":"sprites/sprSpit/sprSpit.yy",},
     {"name":"sprSpitDebris","order":9,"path":"sprites/sprSpitDebris/sprSpitDebris.yy",},
     {"name":"sprSword","order":5,"path":"sprites/sprSword/sprSword.yy",},
+    {"name":"sprWhiteRect","order":10,"path":"sprites/sprWhiteRect/sprWhiteRect.yy",},
   ],
 }
