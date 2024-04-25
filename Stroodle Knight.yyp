@@ -38,8 +38,8 @@
   "resources":[
     {"id":{"name":"acMoveRight","path":"animcurves/acMoveRight/acMoveRight.yy",},},
     {"id":{"name":"fCharacterTitles","path":"fonts/fCharacterTitles/fCharacterTitles.yy",},},
-    {"id":{"name":"fInstructions","path":"fonts/fInstructions/fInstructions.yy",},},
     {"id":{"name":"fEnd","path":"fonts/fEnd/fEnd.yy",},},
+    {"id":{"name":"fInstructions","path":"fonts/fInstructions/fInstructions.yy",},},
     {"id":{"name":"idea log","path":"notes/idea log/idea log.yy",},},
     {"id":{"name":"objDragon","path":"objects/objDragon/objDragon.yy",},},
     {"id":{"name":"objDragonMouth","path":"objects/objDragonMouth/objDragonMouth.yy",},},
@@ -66,6 +66,7 @@
     {"id":{"name":"seqDeath","path":"sequences/seqDeath/seqDeath.yy",},},
     {"id":{"name":"seqPlayerMove","path":"sequences/seqPlayerMove/seqPlayerMove.yy",},},
     {"id":{"name":"sprBackground","path":"sprites/sprBackground/sprBackground.yy",},},
+    {"id":{"name":"sprCrate","path":"sprites/sprCrate/sprCrate.yy",},},
     {"id":{"name":"sprDragon","path":"sprites/sprDragon/sprDragon.yy",},},
     {"id":{"name":"sprDragonHurt","path":"sprites/sprDragonHurt/sprDragonHurt.yy",},},
     {"id":{"name":"sprDragonShooting","path":"sprites/sprDragonShooting/sprDragonShooting.yy",},},

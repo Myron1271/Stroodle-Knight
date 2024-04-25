@@ -17,8 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"fInstructions","order":1,"path":"fonts/fInstructions/fInstructions.yy",},
     {"name":"fEnd","order":2,"path":"fonts/fEnd/fEnd.yy",},
+    {"name":"fInstructions","order":1,"path":"fonts/fInstructions/fInstructions.yy",},
     {"name":"objDragon","order":1,"path":"objects/objDragon/objDragon.yy",},
     {"name":"objDragonMouth","order":11,"path":"objects/objDragonMouth/objDragonMouth.yy",},
     {"name":"objEndText","order":14,"path":"objects/objEndText/objEndText.yy",},
@@ -39,6 +39,7 @@
     {"name":"Enums","order":1,"path":"scripts/Enums/Enums.yy",},
     {"name":"seqDeath","order":1,"path":"sequences/seqDeath/seqDeath.yy",},
     {"name":"sprBackground","order":11,"path":"sprites/sprBackground/sprBackground.yy",},
+    {"name":"sprCrate","order":18,"path":"sprites/sprCrate/sprCrate.yy",},
     {"name":"sprDragon","order":2,"path":"sprites/sprDragon/sprDragon.yy",},
     {"name":"sprDragonHurt","order":12,"path":"sprites/sprDragonHurt/sprDragonHurt.yy",},
     {"name":"sprDragonShooting","order":15,"path":"sprites/sprDragonShooting/sprDragonShooting.yy",},
